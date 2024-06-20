@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @absoluteborg
-- 👀 I’m interested in building websites and games.
-- 🌱 I’m currently learning Node and Gadot.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Robert Strawberry
+- 👀 I’m a Software and Web Developer
+- 🌱 I’m currently learning Node and Gadot
+- 💞️ I’m looking for paying work
 - 📫 How to reach me ... 
 
 <!---
